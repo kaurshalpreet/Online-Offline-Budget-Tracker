@@ -31,7 +31,7 @@ WHEN the user inputs a withdrawal or deposit
 THEN that will be shown on the page, and added to their transaction history when their connection is back online.<br>
 The application uses progressive web app functionality. The application also uses manifests and web services that allows the user to have the functionlity without being connected to the internet and will save the information that was inserted for when the device is reconnected to the internet. 
 
- [The link to the deployed app to Heroku](https://ancient-earth-94263.herokuapp.com/)
+ [The link to the deployed app to Heroku](https://polar-island-26056.herokuapp.com/)
 
 
 A Screenshot of the app is shown below.
