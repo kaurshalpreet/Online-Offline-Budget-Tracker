@@ -7,7 +7,7 @@ The user will be able to add expenses and deposits to their budget with or witho
 
 Online/Offline Budget Tracker is an app where user will be able to add expenses and deposits to their budget with or without a data/internet connection. When entering transactions offline, they should populate the total when brought back online. So, a user will be able to track their withdrawals and deposits with or without a data/internet connection and check if their account balance is accurate when they are traveling.
 <br>
-Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success. <br>
+Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to the applications success. <br>
 
 [The Link to My Github Repository](https://github.com/kaurshalpreet/Online-Offline-Budget-Tracker)
 
